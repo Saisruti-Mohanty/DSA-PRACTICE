@@ -20,7 +20,7 @@ public class KthLargestHeapKthLargestHeap {
         public static void main(String[] args) {
 
             int arr[] = {7, 10, 4, 3, 20, 15};
-            int k = 3;
+            int k = 4;
 
             System.out.println("Kth Largest Element: " + findKthLargest(arr, k));
         }
